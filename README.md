@@ -9,8 +9,7 @@ Este projeto tem como objetivo explicar, de forma clara e acessível, o que é I
 - **Plataformas de Produção de Vídeo**: Invideo AI para edição de vídeo e inclusão de imagens.
 
 ## 🧐 Processo de Criação  
-Comecei levantando conceitos de Inteligência Artificial e segurança digital e usei o ChatGPT como minha principal ferramenta para estruturar ideias e criar a narrativa. 
-los práticos e dicas úteis, ele educa e conscientiza sobre o uso seguro e responsável da tecnologia. 
+Comecei levantando conceitos de Inteligência Artificial e segurança dos dados e usei o ChatGPT como minha principal ferramenta para estruturar ideias e criar a narrativa. 
 
 [Assista ao vídeo](https://ai.invideo.io/watch/C7lUI8A8QFf)
 
