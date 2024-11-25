@@ -10,10 +10,7 @@ Este projeto tem como objetivo explicar, de forma clara e acessível, o que é I
 
 ## 🧐 Processo de Criação  
 Comecei levantando conceitos de Inteligência Artificial e segurança digital e usei o ChatGPT como minha principal ferramenta para estruturar ideias e criar a narrativa. 
-Ao desenvolver esse conteúdo, não só explorei as possibilidades da IA, como também iniciei uma nova fase de aprendizado e crescimento, reforçando que todo começo é uma oportunidade para evoluir.
-  
-## 🚀 Resultados  
-O vídeo apresenta de forma clara e envolvente como a IA funciona no dia a dia e destaca a importância de proteger dados pessoais. Com exemplos práticos e dicas úteis, ele educa e conscientiza sobre o uso seguro e responsável da tecnologia. 
+los práticos e dicas úteis, ele educa e conscientiza sobre o uso seguro e responsável da tecnologia. 
 
 [Assista ao vídeo](https://ai.invideo.io/watch/C7lUI8A8QFf)
 
